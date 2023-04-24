@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\comp\Desktop\Project3\Source.cpp(78,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(79,15): warning C4018: '>': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(88,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(96,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(112,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(128,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\comp\Desktop\Project3\Source.cpp(87,9): warning C4101: 'b': unreferenced local variable
+C:\Users\comp\Desktop\Project3\Source.cpp(150,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\comp\Desktop\Project3\Source.cpp(151,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\comp\Desktop\Project3\Source.cpp(152,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\comp\Desktop\Project3\Debug\Project3.exe
